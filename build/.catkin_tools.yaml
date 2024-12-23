@@ -1,0 +1,6 @@
+devel_space: /home/sinem/catkin_ws/devel
+install: false
+install_space: /home/sinem/catkin_ws/install
+profile: default
+source_space: /home/sinem/catkin_ws/src
+workspace: /home/sinem/catkin_ws
