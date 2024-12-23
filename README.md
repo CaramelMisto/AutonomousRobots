@@ -1,6 +1,6 @@
 ***Autonomous Navigation Mobile Robot Simulation***
 
-**Overview*
+**Overview**
 This repository contains the complete implementation of the Autonomous Navigation Mobile Robot Simulation project, created as part of the CEN449 Introduction to Autonomous Robots course. The project demonstrates the use of ROS and Gazebo to simulate TurtleBot 3 performing autonomous navigation without relying on a pre-saved map.
 
 **Contents**
